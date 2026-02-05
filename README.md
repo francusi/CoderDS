@@ -44,7 +44,7 @@ El modelo alcanzó un **Error Porcentual (MAPE) de ~17%** en el conjunto de vali
 
 ### Comparativa: Realidad 2025 vs Predicción 2026
 *(Aquí puedes pegar la imagen de tu gráfico final comparativo)*
-![Gráfico Comparativo](URL_DE_TU_IMAGEN_AQUI)
+![Gráfico Comparativo][https://github.com/francusi/Proyecto_SUBE/issues/1#issue-3903034507]
 
 > **Observación:** El modelo captura correctamente la caída de demanda en los meses de **Enero/Febrero** (vacaciones de verano) y la "muesca" en **Julio** (receso invernal), demostrando que ha aprendido el comportamiento social de la ciudad.
 
@@ -52,7 +52,7 @@ El modelo alcanzó un **Error Porcentual (MAPE) de ~17%** en el conjunto de vali
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/francusi/CoderDS.git](https://github.com/francusi/CoderDS.git)
+    git clone [https://github.com/francusi/Proyecto_SUBE.git](https://github.com/francusi/Proyecto_SUBE.git)
     ```
 2.  Instalar dependencias:
     ```bash
