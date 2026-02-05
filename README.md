@@ -43,8 +43,7 @@ A diferencia de los enfoques tradicionales, **no se utilizó una división aleat
 El modelo alcanzó un **Error Porcentual (MAPE) de ~17%** en el conjunto de validación (2025), un valor robusto considerando la variabilidad externa (paros de transporte, clima) no incluida en el dataset.
 
 ### Comparativa: Realidad 2025 vs Predicción 2026
-*(Aquí puedes pegar la imagen de tu gráfico final comparativo)*
-![Gráfico Comparativo][https://github.com/francusi/Proyecto_SUBE/issues/1#issue-3903034507]
+![Gráfico Comparativo](https://github.com/francusi/Proyecto_SUBE/blob/ec20337a5ac4a33dfcd8bee4ca45f47484a31005/Datasets/comparativa_2025_2026.png)
 
 > **Observación:** El modelo captura correctamente la caída de demanda en los meses de **Enero/Febrero** (vacaciones de verano) y la "muesca" en **Julio** (receso invernal), demostrando que ha aprendido el comportamiento social de la ciudad.
 
