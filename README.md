@@ -60,7 +60,7 @@ El modelo alcanzó un **Error Porcentual (MAPE) de ~17%** en el conjunto de vali
 3.  Ejecutar el Notebook `ProyectoSUBERosario.ipynb`.
 
 ## ✒️ Autor
-**Franco** - *Data Scientist Junior / BI Analyst*
+**Franco Barrionuevo** - *Data Scientist Junior / BI Analyst*
 * [LinkedIn](https://www.linkedin.com/in/franco-barrionuevo/)
 * [GitHub](https://github.com/francusi)
 
